@@ -1,6 +1,8 @@
 # qemu-escape
 
-some interesting qemu-escape game
+some interesting qemu-escape game.
+
+writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at first, and then on my [blog](http://ray-cp.github.io/) after a while.
 
 * BlizzardCTF2017-Strng
 	
@@ -8,7 +10,7 @@ some interesting qemu-escape game
 
 	finished date: 2019.08.04
 
-	writeup: None
+	writeup: [qemu pwn-Blizzard CTF 2017 Strng writeup](https://ray-cp.github.io/archivers/qemu-pwn-Blizzard-CTF-2017-Strng-writeup)
 
 	officail link: [blizzardctf2017](https://github.com/rcvalle/blizzardctf2017)
 
@@ -18,13 +20,15 @@ some interesting qemu-escape game
 
 	related link: None
 
+	writeup: [qemu-pwn-基础知识](https://ray-cp.github.io/archivers/qemu-pwn-basic-knowledge)
+
 * hitb-gsec-2017-babyqemu
 
 	description: babyqemu pci device `hitb` with mmio, which implemented dma function.
 
 	finished date: 2019.08.07
 
-	writeup: None
+	writeup: [qemu pwn-hitb gesc 2017 babyqemu writeup](https://ray-cp.github.io/archivers/qemu-pwn-hitb-gesc-2017-babyqemu-writeup)
 
 * DefconQuals-2018-EC3
 
@@ -32,7 +36,7 @@ some interesting qemu-escape game
 
 	finished date: 2019.08.16
 
-	writeup: None
+	writeup: [qemu-pwn-DefconQuals-2018-EC3](https://ray-cp.github.io/archivers/qemu-pwn-DefconQuals-2018-EC3)
 
 * seccon-2018-q-escape
 
@@ -40,7 +44,7 @@ some interesting qemu-escape game
 
 	finished date: 2019.08.21
 
-	writeup: None
+	writeup: [https://t.zsxq.com/NbQbYji](https://t.zsxq.com/NbQbYji)
 
 	officail link: [q-escape](https://github.com/SECCON/SECCON2018_online_CTF/tree/master/Pwn/q-escape)
 
